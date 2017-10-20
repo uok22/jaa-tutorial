@@ -48,5 +48,5 @@ public class CustomerRepositoryTests {
     }
 
     // this is a comment
-
+//
 }
